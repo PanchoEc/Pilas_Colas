@@ -1,0 +1,14 @@
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\bin\Debug\net8.0\Pilas_Colas.exe
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\bin\Debug\net8.0\Pilas_Colas.deps.json
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\bin\Debug\net8.0\Pilas_Colas.runtimeconfig.json
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\bin\Debug\net8.0\Pilas_Colas.dll
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\bin\Debug\net8.0\Pilas_Colas.pdb
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\obj\Debug\net8.0\Pilas_Colas.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\obj\Debug\net8.0\Pilas_Colas.AssemblyInfoInputs.cache
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\obj\Debug\net8.0\Pilas_Colas.AssemblyInfo.cs
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\obj\Debug\net8.0\Pilas_Colas.csproj.CoreCompileInputs.cache
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\obj\Debug\net8.0\Pilas_Colas.dll
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\obj\Debug\net8.0\refint\Pilas_Colas.dll
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\obj\Debug\net8.0\Pilas_Colas.pdb
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\obj\Debug\net8.0\Pilas_Colas.genruntimeconfig.cache
+E:\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\PROGRAMACION ORIENTADA A OBJETOS\Semana 6\Tarea\Pilas_Colas\obj\Debug\net8.0\ref\Pilas_Colas.dll
